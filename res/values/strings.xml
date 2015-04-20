@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="app_name">Sliding Puzzle</string>
+	<string name="pref_name">Change Picture</string>
+	<string name="choose_pic">Change Picture</string>
+
+	<string name="quit">Really quit?</string>
+	<string name="reallyquit">Are you sure you want to quit? Your puzzle state
+		will be lost.</string>
+
+	<string name="yes">Quit</string>
+	<string name="no">Don\'t Quit</string>
+
+	<string name="antelope">Antelope</string>
+	<string name="bridge">Bridge</string>
+	<string name="barn">Barn</string>
+	<string name="cliff">Cliff</string>
+	<string name="clock">Clock</string>
+	<string name="fireworks">Fireworks</string>
+	<string name="flag">Flag</string>
+	<string name="fountain">Fountain</string>
+	<string name="melons">Melons</string>
+	<string name="moonman">MoonMan</string>
+	<string name="numbers">Numbers</string>
+	
+	<string name="picbutton">Done</string>
+
+</resources>

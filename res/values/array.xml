@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="picArray">
+		<item>Antelope</item>
+		<item>Bridge</item>
+		<item>Cliff</item>
+		<item>Clock</item>
+		<item>Barn</item>
+		<item>Fireworks</item>
+		<item>Flag</item>
+		<item>Fountain</item>
+		<item>Melons</item>	
+		<item>Moon Man</item>
+		<item>Numbers</item>
+	</string-array>
+
+	<string-array name="picValues">
+		<item>Antelope</item>
+		<item>Bridge</item>
+		<item>Cliff</item>
+		<item>Clock</item>
+		<item>Barn</item>
+		<item>Fireworks</item>
+		<item>Flag</item>
+		<item>Fountain</item>
+		<item>Melons</item>	
+		<item>Moon Man</item>
+		<item>Numbers</item>
+	</string-array>
+</resources>
